@@ -12,7 +12,7 @@ I am a newbie in coding right now but I am fluent at these languages, libraries 
 
 - [Codepen.io](https://codepen.io/AviralCoder)
 - [Github](https://github.com/AviralCoder)
-- Discord - Milkshake#9637
+- Discord - Cool Foxy#9999
 - Mail - [aviral.kochgaway@gmail.com]
 
 
