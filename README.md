@@ -4,9 +4,9 @@
 
 I am a newbie in coding right now but I am fluent at these languages, libraries and frameworks - 
 
-- 🌱 Currently learning React JS, Java and React Native.
+- 🌱 Currently learning React Native and Node JS.
 - ⚡️ I love playing Minecraft.
-- 💬 Ask me about Vanilla Javascript, HTML, CSS, SCSS and Python
+- 💬 Ask me about Vanilla Javascript, HTML, CSS, SCSS and React JS.
 
 # Connect with me
 
