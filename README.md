@@ -24,7 +24,7 @@
   <img src="https://www.quikteks.com/wp-content/uploads/2017/10/Wordlogo400-1.jpg" width=100/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width=100 />
   <img src="https://next.yarnpkg.com/icons/icon-512x512.png?v=f5700f2542f6d562c3f654ed9d45683f" width=100 />
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width=100 />
+  <img src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" width=100 />
 </span>
 
 ## Learning and going to learn - 
@@ -41,8 +41,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2086px-Microsoft_Excel_2013-2019_logo.svg.png" width=100 />
   <img src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" width=100 />
   <img src="https://img.icons8.com/color/452/redux.png" width=100 />
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width=100 />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=100 />
+  <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" width=100 />
+  <img src="https://img.icons8.com/color/452/firebase.png" width=100 />
 </span>
 
 ## Projects made using React
