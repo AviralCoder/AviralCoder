@@ -12,7 +12,7 @@
   <img src="https://img.icons8.com/color/452/javascript--v1.png" width=100/>
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width=100/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width=100/>
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width=100/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAUg" width=100/>
   <img src="https://material-ui.com/static/logo.png" width=100/>
   <img src="https://reacttraining.com/images/logo-icon-512.png" width=100/>
   <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width=100/>
