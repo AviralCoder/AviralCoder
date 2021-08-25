@@ -24,6 +24,7 @@
   <img src="https://www.quikteks.com/wp-content/uploads/2017/10/Wordlogo400-1.jpg" width=100/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width=100 />
   <img src="https://next.yarnpkg.com/icons/icon-512x512.png?v=f5700f2542f6d562c3f654ed9d45683f" width=100 />
+  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width=100 />
 </span>
 
 ## Learning and going to learn - 
@@ -43,6 +44,50 @@
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width=100 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width=100 />
 </span>
+
+## Projects made using React
+
+- Covid19 Tracker
+- Codepen Clone
+- Disney+ Clone
+- Search Countries
+- Notes
+- Jokes 
+
+Tip: Check repositories
+
+## Projects made using HTML, CSS, SASS, JS and jQuery
+- Garper
+- Web Dev service (template website)
+- Doraemon in CSS
+- University Website (template website)
+- Avengers Quiz
+
+## Projects made using Bootstrap
+
+- React JS bootcamp (template website)
+- Covid19 Tracker
+
+## Projects made using Material UI
+- Notes
+- Jokes
+- Covid19 Tracker
+
+## Projects made using jQuery
+- Garper
+
+## Projects made using React Router
+- Disney+ Clone
+- Covid19 Tracker
+
+## Projects made using React Native
+- Sertify
+
+## Projects deployed to Vercel
+- Disney+ Clone
+- Covid19 Tracker
+
+Check my google play profile - https://play.google.com/store/apps/dev?id=7458641539744931768
 
 # Connect with me
 
