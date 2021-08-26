@@ -43,6 +43,7 @@
   <img src="https://img.icons8.com/color/452/redux.png" width=100 />
   <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" width=100 />
   <img src="https://img.icons8.com/color/452/firebase.png" width=100 />
+  <img src="https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png" width=100 />
 </span>
 
 ## Projects made using React
