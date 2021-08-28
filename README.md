@@ -25,6 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width=100 />
   <img src="https://next.yarnpkg.com/icons/icon-512x512.png?v=f5700f2542f6d562c3f654ed9d45683f" width=100 />
   <img src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" width=100 />
+  <img src="https://pbs.twimg.com/profile_images/1330347848056049666/DCKNirXZ_400x400.png" width=100 />
 </span>
 
 ## Learning and going to learn - 
