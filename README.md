@@ -58,6 +58,13 @@ Hey, I am Aviral. I love app and web development!
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwinddotcss&logoColor=white)
 
+## Stats
+
+<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=aviralcoder&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" /></p>
+<p align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviralcoder&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" />
+ </p>
+ 
 
 ## Connect with me
 
