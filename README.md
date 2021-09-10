@@ -62,9 +62,11 @@ Hey, I am Aviral. I love app and web development!
 
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=aviralcoder&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" /></p>
 <p align="center" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviralcoder&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" />
- </p>
- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviralcoder&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" /> <br /> <br />
+<img src="https://gpvc.arturio.dev/AviralCoder" />
+</p>
+
+
 
 ## Connect with me
 
