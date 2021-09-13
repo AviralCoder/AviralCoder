@@ -56,7 +56,6 @@ Hey, I am Aviral. I love app and web development!
 ![Svelte](https://img.shields.io/badge/Svelte-red?style=for-the-badge&logo=svelte&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwinddotcss&logoColor=white)
 
 ## Stats
