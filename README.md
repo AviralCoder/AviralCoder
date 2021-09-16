@@ -66,16 +66,6 @@ Hey, I am Aviral. I love app and web development!
 </p>
 
 
-
-## Connect with me
-
-- [Codepen.io](https://codepen.io/AviralCoder)
-- [Github](https://github.com/AviralCoder)
-- Discord - TKC#9999
-- Mail - [aviral.kochgaway@gmail.com]
-- Check my google play profile - https://play.google.com/store/apps/dev?id=7458641539744931768
-
-
  
  
  
