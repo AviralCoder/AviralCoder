@@ -41,6 +41,8 @@ Hey, I am Aviral. I love app and web development!
 ![Macos](https://img.shields.io/badge/MacOS-white?style=for-the-badge&logo=apple&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-dark_green?style=for-the-badge&logo=windows&logoColor=white)
 ![Codepen](https://img.shields.io/badge/Codepen-gray?style=for-the-badge&logo=codepen&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
 ## Learning and going to learn - 
