@@ -78,6 +78,10 @@ Self Taught Front End Developer. A proud Indian.
 ---
 
 ### Featured in Codepen.io challenges
+I have been featured in every codepen.io challenge I attempted at the top positions.
+
+---
+
 
 ## Stats
 
