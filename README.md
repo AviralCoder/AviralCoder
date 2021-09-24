@@ -32,7 +32,7 @@ Hey, I am Aviral. I love app and web development!
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-gray?style=for-the-badge&logo=bash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-green?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-red?style=for-the-badge&logo=brave&logoColor=white)
@@ -54,7 +54,7 @@ Hey, I am Aviral. I love app and web development!
 ![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwinddotcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![D3](https://img.shields.io/badge/D3.js-orange?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
 ## Stats
