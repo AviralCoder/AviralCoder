@@ -61,7 +61,7 @@ Self Taught Front End Developer. A proud Indian.
 
 ## Stats
 
-<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=aviralcoder&show_icons=true&theme=dracula&title_color=3cb480&locale=en" /></p>
+<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api?username=aviralcoder&show_icons=true&theme=dracula&locale=en" /></p>
 <p align="center" width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aviralcoder&show_icons=true&theme=dracula" /> <br /> <br />
 <img src="https://gpvc.arturio.dev/AviralCoder" />
