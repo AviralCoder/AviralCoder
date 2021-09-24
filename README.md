@@ -55,6 +55,7 @@ Hey, I am Aviral. I love app and web development!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwinddotcss&logoColor=white)
+![D3](https://img.shields.io/badge/D3.js-orange?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
 ## Stats
 
