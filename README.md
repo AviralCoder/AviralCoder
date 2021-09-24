@@ -77,8 +77,7 @@ Self Taught Front End Developer. A proud Indian.
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ---
 
-###
----
+### Featured in Codepen.io challenges
 
 ## Stats
 
