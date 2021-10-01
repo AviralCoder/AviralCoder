@@ -57,7 +57,6 @@ Self Taught Front End Developer. A proud Indian.
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![D3](https://img.shields.io/badge/D3.js-orange?style=for-the-badge&logo=d3dotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## Achievements
 ### LinkedIn badge for - <br />
