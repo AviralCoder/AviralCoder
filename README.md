@@ -45,7 +45,7 @@ Self Taught Front End Developer. A proud Indian.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Learning and going to learn - 
-<p>Target: By december of 2022</p>
+<p>Target: By december of 2022 (currently learning Node and Express)</p>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
