@@ -10,11 +10,11 @@
 
 ## About me
 
-🌱 - I am currently learning Node.js and Express.js
-⚡️ - Fun Fact: I once fought a WWE match with a person who said, "This can't be done using JavaScript"
-😃 - Ask me about - React, HTML, JavaScript, jQuery, Material UI, Bootstrap, Sass, CSS, Github
-😉 - I love coding.
-🇮🇳 - I am from India.
+🌱 - I am currently learning Node.js and Express.js <br />
+⚡️ - Fun Fact: I once fought a WWE match with a person who said, "This can't be done using JavaScript" <br />
+😃 - Ask me about - React, HTML, JavaScript, jQuery, Material UI, Bootstrap, Sass, CSS, Github <br />
+😉 - I love coding.<br />
+🇮🇳 - I am from India.<br />
 
 
 
